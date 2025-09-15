@@ -22,3 +22,11 @@
   </a>
 </p>
 
+### 📊 Stats :
+![](https://github-readme-stats.vercel.app/api?username=uxntani&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=uxntani&theme=radical&hide_border=true)
+</div>
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxntani)](https://github.com/srijitasinharoy/github-readme-stats)
