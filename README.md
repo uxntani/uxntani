@@ -29,4 +29,4 @@
 </div>
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxntani)](https://github.com/srijitasinharoy/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxntani)
